@@ -1,0 +1,32 @@
+一级分类,二级分类,网站名称,网站URL,网站描述,图标文件名,标签,排序权重,状态
+常用推荐,搜索引擎,Google,https://www.google.com,全球最大的搜索引擎,google.png,,1,推荐
+常用推荐,搜索引擎,GoogleAnalytics,https://developers.google.com/analytics?hl=zh-cn,谷歌分析,google.png,,1,推荐
+常用推荐,搜索引擎,GoogleSearchConsole,https://search.google.com/search-console,网站流量分析,google.png,,1,推荐
+需求探寻,社区资讯,ToolifyAI,https://www.toolify.ai/zh/  ,最大的AI导航站,github.png,,2,正常
+需求探寻,社区资讯,XiaoHuAI,https://www.xiaohu.ai/  ,xiaohuAI资讯,github.png,,2,正常
+需求探寻,趋势分析,GoogleTrends,https://trends.google.com/home?geo=US&hl=en-US,谷歌趋势分析,github.png,,2,正常
+需求探寻,趋势分析,GithubTrends,https://github.com/trending,Github趋势分析,github.png,,2,正常
+需求探寻,趋势分析,XTrends,https://x.com/i/trends,X趋势分析,github.png,,2,正常
+需求探寻,关键词分析,Ahrefs,https://ahrefs.com/,关键词优化难度,github.png,,2,正常
+需求探寻,关键词分析,Semrush,https://semrush.jp/,关键词分析,github.png,,2,正常
+需求探寻,关键词分析,SearchsuggestTips,https://www.searchsuggest.tips/,搜索下拉词,github.png,,2,正常
+需求探寻,关键词分析,Similarweb,https://pro.similarweb.com/,网站分析,github.png,,2,正常
+开发部署,开发工具,GitHub,https://github.com,全球最大的代码托管平台,github.png,Hot,2,正常
+开发部署,开发工具,Boltnew,https://bolt.new/,原型搭建,github.png,,2,正常
+开发部署,模板工具,Vercel,https://vercel.com/new/jessmremeros-projects/templates,模板库,github.png,,2,正常
+开发部署,部署工具,Cloudflare,https://www.cloudflare.com/zh-cn/,部署托管平台,github.png,,2,正常
+开发部署,域名工具,Spaceship,https://www.spaceship.com/,域名购买平台,github.png,,2,正常
+开发部署,域名工具,Querydomains,https://query.domains/,域名查询平台,github.png,,2,正常
+开发部署,域名工具,Instantdomainsearch,https://instantdomainsearch.com/,域名查询平台,github.png,,2,正常
+开发部署,模型工具,Openrouter,https://openrouter.ai/,大模型调用,github.png,,2,正常
+推广变现,外链挂载,Ycombinator,https://news.ycombinator.com/,外链平台,github.png,,2,正常
+推广变现,外链挂载,V2ex,https://www.v2ex.com/,v2ex外链论坛,github.png,,2,正常
+推广变现,外链挂载,Reddit,https://www.reddit.com/,reddit外链论坛,github.png,,2,正常
+推广变现,外链挂载,Iui,https://iui.su/,不死鸟外链论坛,github.png,,2,正常
+推广变现,外链挂载,Producthunt,https://www.producthunt.com/,producthunt外链平台,github.png,,2,正常
+推广变现,广告工具,GoogleAdsense,https://adsense.google.com/,谷歌广告,github.png,,2,正常
+推广变现,赞赏工具,Ko-fi,https://ko-fi.com/,赞赏平台,github.png,,2,正常
+推广变现,赞赏工具,Buymeacoffee,https://buymeacoffee.com/,赞赏平台,github.png,,2,正常
+推广变现,赞赏工具,Iemonsqueezy,https://www.lemonsqueezy.com/,赞赏平台,github.png,,2,正常
+认知进阶,财商工具,Scys,https://scys.com/,生财有术官网,github.png,,2,正常
+认知进阶,财商工具,Zsxq,https://wx.zsxq.com/group/1824528822,知识星球,github.png,,2,正常
